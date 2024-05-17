@@ -1,1 +1,14 @@
+some bug report
 
+summary: test
+steps:
+1.step 1
+2.step 2
+
+AR: actual result
+EX: some result
+
+env: github
+
+priority
+severity
